@@ -190,6 +190,7 @@ The models were evaluated using:
 * Confusion Matrix
 * Precision, Recall, and F1-score
 
+<img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/5687ba3e-dba4-448f-9f05-2fd669fae2e1" />
 
 ---
 
